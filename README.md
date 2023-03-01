@@ -26,7 +26,6 @@
 <p align="left" dir="auto">
 <a href="https://linkedin.com/in/mansoor-nisar" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansoor-nisar" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://fb.com/mansoor.seehar" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mansoor.seehar" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://instagram.com/fawii_fawii" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fawii_fawii" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://medium.com/@mansoornisar12" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mansoornisar12" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 
