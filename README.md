@@ -10,7 +10,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mansoornisar10p&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Mansoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansoornisar10p&hide=stars&show_icons=true&theme=dark)](https://github.com/mansoornisar10p/github-readme-stats)
+[![Mansoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansoornisar92&hide=stars&show_icons=true&theme=dark)](https://github.com/mansoornisar92/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansoornisar10p&theme=dracula&layout=compact)](https://github.com/mansoornisar10p/github-readme-stats)
 
