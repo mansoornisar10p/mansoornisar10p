@@ -70,6 +70,9 @@
 	<a href="https://spring.io/" rel="nofollow"> 
 		<img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="60" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" style="max-width: 100%;"> 
 	</a>
+	<a href="https://www.postgresql.org/" rel="nofollow"> 
+		<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="spring" width="60" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" style="max-width: 100%;"> 
+	</a>
 	
 	
 </p>
