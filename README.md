@@ -74,7 +74,7 @@
 		<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="spring" width="80" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" style="max-width: 100%;"> 
 	</a>
 	<a href="https://www.jenkins.io/" rel="nofollow"> 
-		<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="spring" width="80" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" style="max-width: 100%;"> 
+		<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="spring" width="100" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" style="max-width: 100%;"> 
 	</a>
 	
 	
