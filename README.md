@@ -76,6 +76,11 @@
 	<a href="https://www.jenkins.io/" rel="nofollow"> 
 		<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="spring" width="100" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" style="max-width: 100%;"> 
 	</a>
-	
+	<a href="https://aws.amazon.com/cloudwatch/" rel="nofollow"> 
+		<img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-ar21.svg" alt="spring" width="100" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-ar21.svg" style="max-width: 100%;"> 
+	</a>
+	<a href="https://aws.amazon.com/ec2/" rel="nofollow"> 
+		<img src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-ar21.svg" alt="spring" width="100" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-ar21.svg" style="max-width: 100%;"> 
+	</a>
 	
 </p>
