@@ -68,5 +68,9 @@
 		<img src="https://www.vectorlogo.zone/logos/braintreepayments/braintreepayments-icon.svg" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/braintreepayments/braintreepayments-icon.svg" style="max-width: 100%;"> 
 	</a>
 	
+	<a href="https://spring.io/" rel="nofollow"> 
+		<img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" style="max-width: 100%;"> 
+	</a>
+	
 	
 </p>
